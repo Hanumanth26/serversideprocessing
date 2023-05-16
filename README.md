@@ -99,8 +99,4 @@ Area : <p id="result"></p>
 ## OUTPUT:
 ![Screenshot 2023-05-15 093307](https://github.com/Hanumanth26/serversideprocessing/assets/121033192/781acae1-b02a-4947-bf7c-38d38b297710)
 
-### Home Page:
-
-
-## Result:
 
