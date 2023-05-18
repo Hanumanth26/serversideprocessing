@@ -97,7 +97,8 @@ Area : <p id="result"></p>
 </html>
 ```
 ## OUTPUT:
-![image](https://github.com/Hanumanth26/serversideprocessing/assets/121033192/43213c75-8299-424f-bd7c-6af4ab0115db)
+![image](https://github.com/Hanumanth26/serversideprocessing/assets/121033192/acc43186-9f61-4c6b-b01c-7a82d66254fa)
+
 
 
 
